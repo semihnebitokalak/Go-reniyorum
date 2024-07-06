@@ -7,4 +7,5 @@ import "goLesson/conditionals"
 
 func main() {
 	conditionals.Demo1()
+	conditionals.Demo2()
 }
