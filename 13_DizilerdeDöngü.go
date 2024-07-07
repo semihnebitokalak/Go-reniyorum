@@ -1,3 +1,4 @@
+// Bu kodda for ile dizileri nasıl yazdırmayı öğrendik.
 package main
 
 import "fmt"
